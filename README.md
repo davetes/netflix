@@ -14,10 +14,8 @@ TMDB_API_KEY=your_tmdb_api_key
 ```shell
 npm run build
 ```
-
 ### Start the app
 
 ```shell
 npm run start
 ```
-
